@@ -1,3 +1,8 @@
+## Objective
+- learn how to use vite
+- set up with typescript
+- learnt code split
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
